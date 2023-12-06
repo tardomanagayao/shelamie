@@ -139,9 +139,9 @@
   }
   
   @keyframes changename{
-    0% { content: "Portrait"}
-    25% { content: "Landscape"}
-    50% { content: "Editorial"}
-    75% { content: "Event"}
-    100% { content: "Nature"}
+    0% { content: "EDUCATION"}
+    25% { content: "DICIPLINE"}
+    50% { content: "STUDYHARD"}
+    75% { content: "INSPIRATION"}
+    100% { content: "DREAMS"}
   }
